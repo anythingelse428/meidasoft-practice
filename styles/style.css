@@ -1,0 +1,6 @@
+.task {
+  max-height: 300px;
+  width: 375px;
+  margin: 0 auto;
+  overflow-y: auto;
+}
